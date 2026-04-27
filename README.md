@@ -9,7 +9,7 @@
 ### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/monique-mota-ganan%C3%A7a-423b5836/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="40" height="40"/>
 </a>
 
 <br>
