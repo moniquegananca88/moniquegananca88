@@ -23,4 +23,4 @@ Languages and Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniquegananca88&layout=compact)
+
